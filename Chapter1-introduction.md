@@ -46,7 +46,7 @@ What are the attributes of good software?
   - Good software should deliver the required functionality and performance to the user and should be maintainable.
 
 
-### TAM ( technology Acceptance Model)
+### TAM ( Technology Acceptance Model)
 - The technology acceptance model (TAM) is an information systems theory that models how users come to accept and use a technology. ... Perceived ease-of-use (PEOU) – Davis defined this as "the degree to which a person believes that using a particular system would be free from effort" (Davis 1989).
 
   1. Perceived usefulness
@@ -67,4 +67,9 @@ What are the attributes of good software?
 - Software specification, where customers and engineers define the software that is to be produced and the constraints on its operation.
 - Software developement, where the software is designed and programmed.
 - Software validation, where the software is checked to ensure that it is what the customer requires.
-- Software evolution, where the software is modified to reflect changing customer and market requirements. 
+- Software evolution, where the software is modified to reflect changing customer and market requirements.
+
+
+## General issues that affect software
+- Heterogeneity
+    - Increasingly, systems are requred to operate as distributed systems across networks that include different types of computer and mobile devices.
