@@ -11,7 +11,7 @@ If a person is familiar with a certain, single subject, or has with them a certa
 In the software world, you need an arsenal of toolset
 
 ### Law of use of tools
-- If you don't know how to use a particular in two ways, you don't know that tool.
+- If you don't know how to break a tool in three ways, you don't know that tool.
 
 ### Law of unintended consequences
 - The law of unintended consequences, often cited but rarely defined, is that actions of people—and especially of government—always have effects that are unanticipated or unintended.

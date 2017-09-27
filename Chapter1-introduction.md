@@ -65,11 +65,11 @@ What are the attributes of good software?
 
 ### Software process activities
 - Software specification, where customers and engineers define the software that is to be produced and the constraints on its operation.
-- Software developement, where the software is designed and programmed.
+- Software development, where the software is designed and programmed.
 - Software validation, where the software is checked to ensure that it is what the customer requires.
 - Software evolution, where the software is modified to reflect changing customer and market requirements.
 
 
 ## General issues that affect software
 - Heterogeneity
-    - Increasingly, systems are requred to operate as distributed systems across networks that include different types of computer and mobile devices.
+    - Increasingly, systems are required to operate as distributed systems across networks that include different types of computer and mobile devices.
