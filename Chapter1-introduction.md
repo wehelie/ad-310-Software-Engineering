@@ -55,4 +55,16 @@ What are the attributes of good software?
 - - -
 
 ![](img/tam.jpg)
+
 - - -
+
+
+### Importance of software engineering
+- more and more , individuals and society rely on advanced software systems. We need to be able to produce reliable and trustworthy systems economically and quickly.
+- It is usually cheaper, in the long run, to use software engineering methods and techniques for software systems rather than just write the programs as if itwas a personal programming project. For most types of systems, the majority of costs are the costs of changing the software after it has gone into use.
+
+### Software process activities
+- Software specification, where customers and engineers define the software that is to be produced and the constraints on its operation.
+- Software developement, where the software is designed and programmed.
+- Software validation, where the software is checked to ensure that it is what the customer requires.
+- Software evolution, where the software is modified to reflect changing customer and market requirements. 
