@@ -31,7 +31,7 @@ Topics Covered:
 - - -
 
 ### Software Project Failure
--Increasing system complexity
+- Increasing system complexity
   - As new software engineering technique help us to build larger, more complex systems, the demands change. Systems have to be built and delivered more quickly; larger, even more complex systems are required; systems have to have new capabilities that were previously thought to be impossible.
 
   - Failure to use software engineering methods
@@ -44,3 +44,15 @@ What is software ?
 
 What are the attributes of good software?
   - Good software should deliver the required functionality and performance to the user and should be maintainable.
+
+
+### TAM ( technology Acceptance Model)
+- The technology acceptance model (TAM) is an information systems theory that models how users come to accept and use a technology. ... Perceived ease-of-use (PEOU) – Davis defined this as "the degree to which a person believes that using a particular system would be free from effort" (Davis 1989).
+
+  1. Perceived usefulness
+  2. Perceived ease-of-use
+
+- - -
+
+![](img/tam.jpg)
+- - -
